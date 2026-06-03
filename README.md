@@ -6,47 +6,95 @@
 🎓 4th Semester Mechanical Engineering Undergraduate
 
 ---
+## 🏭 About Me
 
-## 🛠️ Skills
+I'm building skills toward a career as a **Data Center Design Engineer**, focusing on:
 
-- **CAD & Design**: SolidWorks, AutoCAD, 3D Modeling (gears, cams, nuts & bolts)
-- **Programming**: MATLAB (basic to intermediate)
-- **Engineering Topics**: Heat treatment, welding, material hardness (Rockwell, Brinell)
-- **Interest Areas**: Data center mechanical systems, quality control, biomedical engineering
-
----
-
-## 📂 Projects
-
-### 1. CAD Models & Assemblies
-- 3D models of gears, cams, and mechanical assemblies in SolidWorks
-- Link: `your-repo-link`
-
-### 2. MATLAB Scripts
-- Basic problem-solving scripts (kinematics, vibrations, data analysis)
-- Link: `your-repo-link`
-
-### 3. Heat Treatment & Material Analysis
-- Notes, calculations, and reports on heat treatment processes
-- Link: `your-repo-link`
+- Data center cooling systems
+- HVAC and thermal management
+- Mechanical system layout & design coordination
+- Energy efficiency & infrastructure reliability
+- Design documentation & engineering calculations
 
 ---
 
-## 🎯 Goals
+## 🛠️ Tools I'm Learning
 
-- Build a strong portfolio in **CAD design & mechanical systems**
-- Explore roles in **data center mechanical engineering** and **quality control**
-- Start **freelancing** in CAD modeling and design
-- Earn certifications in **SolidWorks, MATLAB, and data center systems**
+| Category | Tools |
+|----------|-------|
+| **CAD & Design** | SolidWorks, AutoCAD, 3D Modeling |
+| **Programming** | MATLAB (engineering calculations) |
+| **Engineering** | Heat transfer, material testing, thermal systems |
+| **Interest Areas** | Data center mechanical systems, airflow design, HVAC |
+
+---
+
+## 📂 Featured Projects
+
+### 1. **solidworks-projects**
+CAD parts, assemblies, and mechanical drawings
+
+### 2. **matlab-engineering-scripts**
+Engineering calculation scripts for thermal and mechanical problems
+
+### 3. **data-center-cooling-basics**
+Notes and research on data center cooling systems
+
+### 4. **thermal-systems-notes**
+Heat transfer, HVAC fundamentals, and cooling design notes
+
+### 5. **mechanical-portfolio**
+Portfolio materials for engineering roles
+
+---
+
+## 🎯 What I'm Building Right Now
+
+- ✅ CAD-based mechanical design projects (gears, assemblies, HVAC components)
+- ✅ MATLAB scripts for engineering calculations
+- ✅ Notes on heat transfer, cooling systems, and thermal management
+- ✅ A portfolio that supports my goal of entering data center design
+
+---
+
+## 🚀 Career Direction
+
+I want to work on mechanical design problems related to:
+
+1. **Cooling systems** – data center heat removal, CRAC units
+2. **HVAC layouts** – facility mechanical system design
+3. **Thermal performance** – energy efficiency and reliability
+4. **Infrastructure** – mechanical systems for critical facilities
+5. **Design documentation** – drawings, calculations, technical reports
+
+---
+
+## 📈 My Growth Path
+
+Building skills in:
+- Mechanical engineering fundamentals
+- HVAC systems and thermal management
+- CAD tools (AutoCAD, SolidWorks)
+- Energy efficiency and reliability
+- Clear technical communication
 
 ---
 
 ## 📬 Connect
 
-- LinkedIn: [your-linkedin-url]
-- Email: aman.kachhi26@gmailcom`
-- Instagram: `your-handle` (for engineering content)
+- LinkedIn: [Add your LinkedIn URL]
+- Email: aman.yourpersonal@gmail.com
+- Instagram: @your-handle
 
 ---
 
-> “Engineering is not just about machines; it’s about solving real-world problems.”
+## 🔭 Currently Learning
+
+- Advanced SolidWorks: 3D modeling and assemblies
+- MATLAB for mechanical engineering
+- Data center cooling and thermal management
+- HVAC design fundamentals
+
+---
+
+> "Engineering is not just about machines; it's about solving real-world problems with reliable, efficient systems."
