@@ -83,7 +83,7 @@ Building skills in:
 ## 📬 Connect
 
 - LinkedIn: [Add your LinkedIn URL]
-- Email: aman.yourpersonal@gmail.com
+- Email: aman.kachhi26@gmail.com
 - Instagram: @your-handle
 
 ---
